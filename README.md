@@ -1,2 +1,2 @@
 # dkargapolov-herz.github.io
-Портфолио
+Практика за 1 курс
